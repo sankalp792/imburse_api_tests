@@ -1,0 +1,12 @@
+module.exports = Object.freeze({
+    PUBLIC_KEY : 'bfaa9a45-5c5a-4bbc-b353-eb6989486c87',
+    PRIVATE_KEY : 'x7uNykwHN3F4ATXMqVcWcCqrc2PnNId7mZ0Ei6IfIMY=',
+    ACCOUNT_ID : '782f1b71-7ca4-4465-917f-68d58ffbec8b',
+    TENANT_ID : '6423ae63-59b6-4986-a949-c910ac622471',
+    SCHEME_ID : '654EB81FF7F07F7CF5A1EE3FF6972E90'
+});
+
+
+
+
+
