@@ -1,6 +1,7 @@
 require('./common.js');
 let instruction = "";
 let orderRef = "order_" + random;
+let token = "";
 
 beforeAll(async (done) =>   {
     const response = await request(base_url)

@@ -1,4 +1,5 @@
 require('./common.js');
+let token = "";
 
 beforeAll(async (done) =>   {
     const response = await request(base_url)
